@@ -61,7 +61,7 @@ For more information about our work see [Research](research).
   </a>
 </div>
 
-We are located at A6-702 Phenikaa University, the to be birthplace of somethings cool in near future :). We exchange ideas and work with our neighbors from [OR Lab](http://orlab.com.vn/), as well as with the colleagues from [PIAS](https://pias.edu.vn/), [ICS Lab](https://icslab.phenikaa-uni.edu.vn/home).
+We are located at A6-702 Phenikaa University, the to be birthplace of somethings cool in near future :). We exchange ideas and work with our neighbors from [OR Lab](http://orlab.com.vn/), as well as with the colleagues from [PIAS](https://pias.edu.vn/), and [ICS Lab](https://icslab.phenikaa-uni.edu.vn/home).
 
 <br />
 **We are looking for passionate new PhD holders, Postdocs, PhD students, and master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
