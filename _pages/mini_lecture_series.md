@@ -1,15 +1,12 @@
 ---
-title: "Allan Lab - AOA"
+title: "Applied AI Lab - Courses"
 layout: textlay
-excerpt: "AOA"
+excerpt: "AI Coursea"
 sitemap: false
-permalink: /aoa.html
+permalink: /courses.html
 ---
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+AI Introduction course for A2I Lab's students Every Monday at 16:00.
 
-05.09.2017 Aarts
-
-dfghjkl

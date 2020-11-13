@@ -1,38 +1,58 @@
 - title: "A Machine-Learning-Based Auction for Resource Trading in Fog Computing"
   image: AI_Frog_Computing.jpg
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+  description: This article introduces the design of an optimal auction based on deep learning for the resource allocation in fog computing. The proposed optimal auction is developed specifically to support blockchain applications.
+  authors: Nguyen Cong Luong, Yutao Jiao, Ping Wang, Dusit Niyato, Dong In Kim, Zhu Han
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416
+    url: https://ieeexplore.ieee.org/document/9040268
+    display:  IEEE Communications Magazine (Vol. 58, Issue 3, 2020)
   highlight: 1
   news2:
 
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: AI_Frog_Computing.jpg
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Explainable machine learning for materials discovery: predicting the potentially formable Nd–Fe–B crystal structures and extracting the structure–stability relationship"
+  image: lam_paper_1.jpg
+  description: We proposed an approach that incorporating supervised and unsupervised learning techniques to estimate the stability and analyze the relationship between the structure and stability of the newly created Nd– Fe–B crystal structures.
+  authors: Tien-Lam Pham, Duong-Nguyen Nguyen, Minh-Quyet Ha, Hiori Kino, Takashi Miyakeb, and Hieu-Chi Dam
   link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766 (2020)
+    url: https://journals.iucr.org/m/issues/2020/06/00/yu5018/yu5018.pdf
+    display:  IUCrJ
   highlight: 1
   news2:
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Dynamic Network Service Selection in IRS-Assisted Wireless Networks: A Game Theory Approach"
+  image: luong_paper_2.jpg
+  description: We investigated the dynamic SP and service selection in an IRS-assisted wireless network. Specifically, we formulated a joint SP and service selection problem as an evolutionary game.
+  authors: Nguyen Cong Luong, Nguyen Thi Thanh Van, Feng Shaohan, Huy T. Nguyen, Dusit Niyato
   link:
-    url: https://arxiv.org/abs/2006.12840
-    display:  arXiv:2006.12840 (2020)
+    url: https://arxiv.org/pdf/2008.01239.pdf
+    display:  arXiv:2008.01239v1 (2020)
   highlight: 1
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
+- title: "Machine Learning Representation for Atomic Forces and Energies"
+  image: lam_paper_2.jpg
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  authors: Pham Tien Lam, Nguyen Van Duy, Nguyen Tien Cuong
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: https://js.vnu.edu.vn/MaP/article/view/4464/4082
+    display: VNU Journal of Science (Mathematics-Physics, 2020)
   highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+  news2:
+
+- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
+  image: trang_paper_1.jpg
+  description: We proposed a new variant of Generative Adversarial Network that propoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2021.hci.international/c&c
+    display: Submitted to HCI, 2021
+  highlight: 1
+  news2:
+
+- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
+  image: trang_paper_2.jpg
+  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2021.hci.international/c&c
+    display: Submitted to HCI, 2021
+  highlight: 1
+  news2:
