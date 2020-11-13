@@ -37,6 +37,17 @@
   highlight: 1
   news2:
 
+- title: "Learning of Art Style Using AI and Its Evaluation Based on Psychological Experiments"
+  image: hung_paper_1.png
+  description: This paper try to investigate the the relationship between AI and art. To do so, firstly a topic of what art is and what beauty is will be discussed taking artworks of Naoko Tosa, one of the authors, as an example. Then a new methodology for approaching the relationship between AI and art will be proposed, and the results of verification through psychological experiments will be shown.
+  authors: Mai Cong Hung, Ryohei Nakatsu, Naoko Tosa, Takashi Kusumi, Koji Koyamada
+  link:
+    url: https://arxiv.org/pdf/2005.02220.pdf
+    display: ICEC 2020
+  highlight: 1
+  award: Best Short Paper Award
+  news2: 
+
 - title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
   image: trang_paper_1.jpg
   description: We proposed a new variant of Generative Adversarial Network that propoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
@@ -54,5 +65,5 @@
   link:
     url: http://2021.hci.international/c&c
     display: Submitted to HCI, 2021
-  highlight: 1
+  highlight: 0
   news2:
