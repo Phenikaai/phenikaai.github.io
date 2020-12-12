@@ -1,16 +1,6 @@
-- name: Ngo Hong Son
-  photo: Son.jpg
-  info: Associate Professor, Dean of Faculty
-  email: son.ngohong@phenikaa-uni.edu.vn
-  number_educ: 4
-  education1: Master at <a href="http://ifi.edu.vn/en/">IFI</a>
-  education2: Ph.D at <a href="http://www.jaist.ac.jp/english/">JAIST</a>
-  education3: <a href="https://cs.phenikaa-uni.edu.vn/Portals/85/DocumentUpload/VI_CV_11220-2.pdf">Full CV</a>
-  education4: <a href="https://www.researchgate.net/profile/Son_Hong_Ngo">Research Gate</a>
-
-- name: Nguyen Cong Luong
+- name: Nguyen Cong Luong, Ph.D
   photo: Luong.jpg
-  info: Researcher
+  info: Researcher, Group Leader
   email: luong.nguyencong@phenikaa-uni.edu.vn
   number_educ: 4
   education1: Master at <a href="https://www.hust.edu.vn/">HUST</a>
@@ -18,25 +8,35 @@
   education3: Research Associate at <a href="https://www.ntu.edu.sg/Pages/home.aspx">NTU</a>
   education4: <a href="https://scholar.google.com/citations?user=g_A5WeIAAAAJ&hl=en">Google Scholar</a>
 
-- name: Pham Tien Lam
-  photo: Lam.jpeg
-  info: Researcher
-  email: lam.phamtien@phenikaa-uni.edu.vn
-  number_educ: 4
-  education1: Master at <a href="http://hus.vnu.edu.vn/">HUS</a>
-  education2: Ph.D at <a href="http://www.jaist.ac.jp/english/">JAIST</a>
-  education3: Postdoc at <a href="http://www.jaist.ac.jp/english/">JAIST</a>
-  education4: <a href="https://scholar.google.com/citations?user=TFP4OXcAAAAJ&hl=en&oi=ao">Google Scholar</a>
-
-- name: Mai Xuan Trang
+- name: Mai Xuan Trang, Ph.D
   photo: Trang.jpg
-  info: Researcher
+  info: Researcher, Program Director
   email: trang.maixuan@phenikaa-uni.edu.vn
   number_educ: 4
   education1: Master at <a href="http://kmitl.ac.th/en">KMITL</a>
   education2: Ph.D at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
   education3: Postdoc at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
   education4: <a href="https://scholar.google.com/citations?hl=en&user=0phzmw8AAAAJ">Google Scholar</a>
+
+- name: Luong Van Thien, Ph.D
+  photo: Thien.jpg
+  info: Researcher
+  email: thien.luongvan@phenikaa-uni.edu.vn
+  number_educ: 4
+  education1: B.E at <a href="https://www.hust.edu.vn/">HUST</a>
+  education2: Ph.D at <a href="https://www.qub.ac.uk/">Queen’s Belfast University</a>
+  education3: Postdoc at <a href="https://www.southampton.ac.uk/">Southampton University</a>
+  education4: <a href="https://scholar.google.com/citations?user=Gi4858sAAAAJ&hl=en">Google Scholar</a>
+
+- name: Nguyen Thi Thanh Van, M.Sc
+  photo: Van.jpg
+  info: Research Assistant
+  email: van.nguyenthithanh@phenikaa-uni.edu.vn
+  number_educ: 2
+  education1: B.E at <a href="https://www.haui.edu.vn/en">HaUI</a>
+  education2: M.Sc at <a href="http://mta.edu.vn/">MTA</a>
+  education3: 
+  education4: 
 
 - name: "This could be you !"
   photo: rock.jpg
