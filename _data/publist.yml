@@ -1,3 +1,25 @@
+- title: "Federated Learning in Mobile Edge Networks: A Comprehensive
+Survey"
+  image: federated_learning.jpg
+  description: In this article we begin with an introduction to the background and fundamentals of Federated Learning (FL). Then, we highlight the aforementioned challenges of FL implementation and review existing solutions. Furthermore, we present the applications of FL for mobile edge network optimization. Finally, we discuss the important challenges and future research directions in FL.
+  authors: W. Y. B. Lim, C. L. Nguyen, D. T. Hoang, Y. Jiao, Y. C. Liang, Q. Yang, D. Niyato, C. Miao
+  link:
+    url: https://ieeexplore.ieee.org/document/9060868
+    display: IEEE Communications Surveys & Tutorials (Vol. 22, Issue 3, 3rd 2020, Q1, IF 23.7)
+  highlight: 1
+  news2:
+
+- title: "Learning of Art Style Using AI and Its Evaluation Based on Psychological Experiments"
+  image: hung_paper_1.jpg
+  description: This paper try to investigate the the relationship between AI and art. To do so, firstly a topic of what art is and what beauty is will be discussed taking artworks of Naoko Tosa, one of the authors, as an example. Then a new methodology for approaching the relationship between AI and art will be proposed, and the results of verification through psychological experiments will be shown.
+  authors: Mai Cong Hung, Ryohei Nakatsu, Naoko Tosa, Takashi Kusumi, Koji Koyamada
+  link:
+    url: https://arxiv.org/pdf/2004.02220.pdf
+    display: ICEC 2019
+  highlight: 1
+  award: Best Short Paper Award
+  news1: 
+
 - title: "A Machine-Learning-Based Auction for Resource Trading in Fog Computing"
   image: AI_Frog_Computing.jpg
   description: This article introduces the design of an optimal auction based on deep learning for the resource allocation in fog computing. The proposed optimal auction is developed specifically to support blockchain applications.
@@ -8,6 +30,25 @@
   highlight: 1
   news2:
 
+- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
+  image: trang_paper_1.jpg
+  description: We proposed a new variant of Generative Adversarial Network that propoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2020.hci.international/c&c
+    display: Accepted to HCI, 2021
+  highlight: 1
+  news1:
+
+- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
+  image: trang_paper_2.jpg
+  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2020.hci.international/c&c
+    display: Accepted to HCI, 2021
+  highlight: 1
+  news1:
 - title: "Explainable machine learning for materials discovery: predicting the potentially formable Nd–Fe–B crystal structures and extracting the structure–stability relationship"
   image: lam_paper_1.jpg
   description: We proposed an approach that incorporating supervised and unsupervised learning techniques to estimate the stability and analyze the relationship between the structure and stability of the newly created Nd– Fe–B crystal structures.
@@ -15,7 +56,7 @@
   link:
     url: https://journals.iucr.org/m/issues/2020/06/00/yu5018/yu5018.pdf
     display:  IUCrJ
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Dynamic Network Service Selection in IRS-Assisted Wireless Networks: A Game Theory Approach"
@@ -25,7 +66,7 @@
   link:
     url: https://arxiv.org/pdf/2008.01239.pdf
     display:  arXiv:2008.01239v1 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Machine Learning Representation for Atomic Forces and Energies"
   image: lam_paper_2.jpg
@@ -35,35 +76,4 @@
     url: https://js.vnu.edu.vn/MaP/article/view/4464/4082
     display: VNU Journal of Science (Mathematics-Physics, 2020)
   highlight: 1
-  news2:
-
-- title: "Learning of Art Style Using AI and Its Evaluation Based on Psychological Experiments"
-  image: hung_paper_1.jpg
-  description: This paper try to investigate the the relationship between AI and art. To do so, firstly a topic of what art is and what beauty is will be discussed taking artworks of Naoko Tosa, one of the authors, as an example. Then a new methodology for approaching the relationship between AI and art will be proposed, and the results of verification through psychological experiments will be shown.
-  authors: Mai Cong Hung, Ryohei Nakatsu, Naoko Tosa, Takashi Kusumi, Koji Koyamada
-  link:
-    url: https://arxiv.org/pdf/2005.02220.pdf
-    display: ICEC 2020
-  highlight: 1
-  award: Best Short Paper Award
-  news2: 
-
-- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
-  image: trang_paper_1.jpg
-  description: We proposed a new variant of Generative Adversarial Network that propoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
-  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
-  link:
-    url: http://2021.hci.international/c&c
-    display: Submitted to HCI, 2021
-  highlight: 1
-  news2:
-
-- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
-  image: trang_paper_2.jpg
-  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
-  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
-  link:
-    url: http://2021.hci.international/c&c
-    display: Submitted to HCI, 2021
-  highlight: 0
   news2:
