@@ -9,7 +9,7 @@ permalink: /research/
 
 # Research
 
-Our research focuses on ...
+Focusing on application of AI (Machine Learning) on different domains such as Communication and Networking, Computer Vison, Cypher-physical systems, our research aims to address fundamental problems of these areas as well as to develop practical methods that enable impactful applications. The current directions are listed as follows:
 
 {% assign number_printed = 0 %}
 {% for prli in site.data.researchthemes %}
