@@ -1,10 +1,32 @@
+- title: "Application of AI in communication and networking"
+  image: aai_networking.jpg
+  description: Short description about the research theme.
+  members: Nguyen Cong Luong, Nguyen Thi Thanh Van
+  #link:
+    #url: https://jupyter.phenikaa-uni.edu.vn/
+    #display: 
+  highlight: 1
+  award: 
+  news2: 
+
 - title: "Application of AI in Digital Art"
   image: aai_art.jpg
-  description: In the recent years, the rapid development of AI, especially “Deep Learning” has reshaped many fields of research.
+  description: Short description about the research theme.
   members: Mai Xuan Trang, Mai Cong Hung, Naoko Tosa, Ryohei Nakatsu
-  link:
-    url: https://jupyter.phenikaa-uni.edu.vn/
-    display: Phenikaa Jupyterhub
+  #link:
+    #url: https://jupyter.phenikaa-uni.edu.vn/
+    #display: Phenikaa Jupyterhub
+  highlight: 1
+  award: 
+  news2: 
+
+- title: "Application of AI in Medical Imaging"
+  image: aai_art.jpg
+  description: Short description about the research theme.
+  members: Mai Xuan Trang, ...
+  #link:
+    #url: https://jupyter.phenikaa-uni.edu.vn/
+    #display: Phenikaa Jupyterhub
   highlight: 1
   award: 
   news2: 

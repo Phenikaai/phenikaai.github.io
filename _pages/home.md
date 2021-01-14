@@ -8,9 +8,9 @@ permalink: /
 
 We are a research group at the [Factulty of Information Technology, Phenikaa University](https://cs.phenikaa-uni.edu.vn/). Our aim is to explore applications of AI in different domains. Our research topics including:
 - Applications of AI in communications and networking
-- Applications of AI in new material discovering
 - Applications of AI in Art
 - Applications of AI in medical and agricultural imaging
+- Applications of AI in new material discovering
 
 For more information about our work see [Research](research).
 
@@ -64,7 +64,7 @@ For more information about our work see [Research](research).
 We are located at Phenikaa University A6-702, the to be birthplace of somethings cool in near future :). We exchange ideas and work with our neighbors from [OR Lab](http://orlab.com.vn/), as well as with the colleagues from [PIAS](https://pias.edu.vn/), and [ICS Lab](https://icslab.phenikaa-uni.edu.vn/home).
 
 <br />
-**We are looking for passionate new PhD holders, Postdocs, PhD students, and master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<span style="background-color: #FFFF00">**We are actively looking for positions of Postdocs, PhD students, research assitants (both bachelor and master degrees are welcome) to join the team** [(see more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</span>
 
 
 <br />

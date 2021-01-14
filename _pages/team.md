@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Members
 
- **We are looking for passionate new PhD holders, Postdocs, PhD students, and master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are actively looking for positions of Postdocs, Research assitants, and PhD Students** [(see open positions)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [students](#students), [collaborators](#collaborators).

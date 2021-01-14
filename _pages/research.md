@@ -7,7 +7,9 @@ permalink: /research/
 ---
 
 
-# Research Themes
+# Research
+
+Our research focuses on ...
 
 {% assign number_printed = 0 %}
 {% for prli in site.data.researchthemes %}
