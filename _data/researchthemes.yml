@@ -11,22 +11,22 @@
 
 - title: "Application of AI in Digital Art"
   image: aai_art.jpg
-  description: Short description about the research theme.
+  description: We are applying advanced Generative Adversarial Networks for generating and preserving creative digital art.
   members: Mai Xuan Trang, Mai Cong Hung, Naoko Tosa, Ryohei Nakatsu
-  #link:
-    #url: https://jupyter.phenikaa-uni.edu.vn/
-    #display: Phenikaa Jupyterhub
+  link:
+    url:
+    display: Phenikaa Jupyterhub
   highlight: 1
   award: 
   news2: 
 
 - title: "Application of AI in Medical Imaging"
-  image: aai_art.jpg
-  description: Short description about the research theme.
-  members: Mai Xuan Trang, ...
-  #link:
-    #url: https://jupyter.phenikaa-uni.edu.vn/
-    #display: Phenikaa Jupyterhub
+  image: medical_ai.jpg
+  description: We research and develop advanced computer vision techniques using deep learning for medical image diagnosis.
+  members: Mai Xuan Trang, Mai Cong Hung
+  link:
+    url:
+    display: Phenikaa Jupyterhub
   highlight: 1
   award: 
   news2: 

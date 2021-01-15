@@ -27,10 +27,18 @@ Focusing on application of AI (Machine Learning) on different domains such as Co
   <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/{{ prli.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ prli.description }}</p>
   <p><em>Members: {{ prli.members }}</em></p>
+  {% if prli.link.url %}
   <p><strong><a href="{{ prli.link.url }}">{{ prli.link.display }}</a></strong></p>
+  {% endif %}
+  {% if prli.new1 %}
   <p class="text-danger"><strong> {{ prli.news1 }}</strong></p>
+  {% endif %}
+  {% if prli.award %}
   <p> <em> {{ prli.award }} </em> </p>
+  {% endif %}
+  {% if prli.news2 %}
   <p> {{ prli.news2 }} </p>
+  {% endif %}
  </div>
 </div>
 

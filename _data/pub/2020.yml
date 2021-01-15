@@ -4,7 +4,7 @@
   authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9271932
-    display:   IEEE Transactions on Wireless Communications (Early Access)
+    display: IEEE Transactions on Wireless Communications (Early Access)
   highlight: 1
   news2:
 
@@ -14,7 +14,7 @@
   authors: Luping Xiang, Yusha Liu, Thien Van Luong, Robert G Maunder, Lie-Liang Yang, Lajos Hanzo
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9233320
-    display:   IEEE Access (Vol. 8, 2020)
+    display: IEEE Access (Vol. 8, 2020)
   highlight: 1
   news2:
 
@@ -24,7 +24,7 @@
   authors: Thien Van Luong, Youngwook Ko, Ngo Anh Vien, Michail Matthaiou, Hien Quoc Ngo
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9036067
-    display:   IEEE Transactions on Wireless Communications (Vol. 19, no. 6, 2020)
+    display: IEEE Transactions on Wireless Communications (Vol. 19, no. 6, 2020)
   highlight: 1
   news2:
 
@@ -45,7 +45,7 @@ Survey"
   authors: Nguyen Cong Luong, Yutao Jiao, Ping Wang, Dusit Niyato, Dong In Kim, Zhu Han
   link:
     url: https://ieeexplore.ieee.org/document/9040268
-    display:  IEEE Communications Magazine (Vol. 58, Issue 3, 2020)
+    display: IEEE Communications Magazine (Vol. 58, Issue 3, 2020)
   highlight: 1
   news2:
 
@@ -55,7 +55,7 @@ Survey"
   authors: Junjie Tan; Ying-Chang Liang; Nguyen Cong Luong; Dusit Niyato
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9220181
-    display:  IEEE Network  (Early Access)
+    display: IEEE Network  (Early Access)
   highlight: 1
   news2:
 
@@ -65,7 +65,7 @@ Survey"
   authors: Tran The Anh, Nguyen Cong Luong, Dusit Niyato
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9197625
-    display:   IEEE Wireless Communications Letters  (Vol. 10, Issue 1, 2021)
+    display: IEEE Wireless Communications Letters  (Vol. 10, Issue 1, 2021)
   highlight: 1
   news2:
 
@@ -75,6 +75,16 @@ Survey"
   authors: Nguyen Quang Hieu, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9162145
-    display:   IEEE Wireless Communications Letters  (Vol. 9, Issue 12, 2020)
+    display: IEEE Wireless Communications Letters  (Vol. 9, Issue 12, 2020)
+  highlight: 1
+  news2:
+
+- title: "Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach"
+  image: 
+  description: 
+  authors: Huy T. Nguyen, C. L. Nguyen, J. Zhao, and D. Niyato
+  link:
+    url: https://arxiv.org/abs/1910.09172
+    display: IEEE 6th World Forum on The Internet of Things (WF-IoT 2020)
   highlight: 1
   news2:

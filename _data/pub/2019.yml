@@ -28,3 +28,33 @@
     display:   IEEE Wireless Communications Letters (Vol. 8, no. 4, 2019)
   highlight: 1
   news2:
+
+- title: "Joint Transaction Transmission and Channel Selection in Cognitive Radio Based Blockchain Networks: A Deep Reinforcement Learning Approach"
+  image: 
+  description: 
+  authors: C. L. Nguyen, T. T. Anh, H. T. T. Binh, D. Niyato, D. I. Kim, and Y. C. Liang
+  link:
+    url: https://ieeexplore.ieee.org/document/8683228
+    display: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019
+  highlight: 1
+  news2:
+
+- title: "Deep Reinforcement Learning for Time Scheduling in RF-Powered Backscatter Cognitive Radio Networks"
+  image: 
+  description: 
+  authors: T. T. Anh, C. L. Nguyen, D. Niyato, Y. C. Liang, and D. I. Kim
+  link:
+    url: https://ieeexplore.ieee.org/document/8885426
+    display: IEEE Wireless Communications and Networking Conference (WCNC), 2019
+  highlight: 1
+  news2:
+
+- title: "Optimal Auction for Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach"
+  image: 
+  description: 
+  authors: C. L. Nguyen, Z. Xiong, P. Wang, and D. Niyato
+  link:
+    url: https://ieeexplore.ieee.org/document/8422743
+    display: IEEE International Conference on Communications, 2018
+  highlight: 1
+  news2:
