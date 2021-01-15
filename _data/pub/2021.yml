@@ -1,0 +1,19 @@
+- title: "IkebanaGAN: New GANs Technique for Digital Ikebana Art"
+  image: trang_paper_1.jpg
+  description: We proposed a new variant of Generative Adversarial Network that propoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2020.hci.international/c&c
+    display: Accepted to HCI, 2021
+  highlight: 1
+  news1:
+
+- title: "Transformation of Landscape into Artistic and Cultural Video Using AI for Future Car"
+  image: trang_paper_2.jpg
+  description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
+  authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  link:
+    url: http://2020.hci.international/c&c
+    display: Accepted to HCI, 2021
+  highlight: 1
+  news1:

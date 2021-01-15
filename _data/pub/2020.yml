@@ -1,0 +1,80 @@
+- title: "Deep Learning-aided Multicarrier Systems"
+  image: 
+  description: 
+  authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9271932
+    display:   IEEE Transactions on Wireless Communications (Early Access)
+  highlight: 1
+  news2:
+
+- title: "Deep-Learning-Aided Joint Channel Estimation and Data Detection for Spatial Modulation"
+  image: 
+  description: 
+  authors: Luping Xiang, Yusha Liu, Thien Van Luong, Robert G Maunder, Lie-Liang Yang, Lajos Hanzo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9233320
+    display:   IEEE Access (Vol. 8, 2020)
+  highlight: 1
+  news2:
+
+- title: "Deep Energy Autoencoder for Noncoherent Multicarrier MU-SIMO Systems"
+  image: 
+  description: 
+  authors: Thien Van Luong, Youngwook Ko, Ngo Anh Vien, Michail Matthaiou, Hien Quoc Ngo
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9036067
+    display:   IEEE Transactions on Wireless Communications (Vol. 19, no. 6, 2020)
+  highlight: 1
+  news2:
+
+- title: "Federated Learning in Mobile Edge Networks: A Comprehensive
+Survey"
+  image: 
+  description: 
+  authors: W. Y. B. Lim, C. L. Nguyen, D. T. Hoang, Y. Jiao, Y. C. Liang, Q. Yang, D. Niyato, C. Miao
+  link:
+    url: https://ieeexplore.ieee.org/document/9060868
+    display: IEEE Communications Surveys & Tutorials (Vol. 22, Issue 3, 3rd 2020, Q1, IF 23.7)
+  highlight: 1
+  news2:
+
+- title: "A Machine-Learning-Based Auction for Resource Trading in Fog Computing"
+  image: 
+  description: 
+  authors: Nguyen Cong Luong, Yutao Jiao, Ping Wang, Dusit Niyato, Dong In Kim, Zhu Han
+  link:
+    url: https://ieeexplore.ieee.org/document/9040268
+    display:  IEEE Communications Magazine (Vol. 58, Issue 3, 2020)
+  highlight: 1
+  news2:
+
+- title: "Toward Smart Security Enhancement of Federated Learning Networks"
+  image: 
+  description: 
+  authors: Junjie Tan; Ying-Chang Liang; Nguyen Cong Luong; Dusit Niyato
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9220181
+    display:  IEEE Network  (Early Access)
+  highlight: 1
+  news2:
+
+- title: "A Deep Reinforcement Learning Approach for Backscatter-Assisted Relay Communications"
+  image: 
+  description: 
+  authors: Tran The Anh, Nguyen Cong Luong, Dusit Niyato
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9197625
+    display:   IEEE Wireless Communications Letters  (Vol. 10, Issue 1, 2021)
+  highlight: 1
+  news2:
+
+- title: "iRDRC: An Intelligent Real-Time Dual-Functional Radar-Communication System for Automotive Vehicles"
+  image: 
+  description: 
+  authors: Nguyen Quang Hieu, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9162145
+    display:   IEEE Wireless Communications Letters  (Vol. 9, Issue 12, 2020)
+  highlight: 1
+  news2:

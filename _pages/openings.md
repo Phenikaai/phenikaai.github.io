@@ -1,6 +1,6 @@
 ---
 title: "Applied AI Lab - Vacancies"
-layout: textlay
+layout: newslay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies

@@ -8,8 +8,7 @@ permalink: /team/
 
 # Members
 
- **We are actively looking for positions of Postdocs, Research assitants, and PhD Students** [(see open positions)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+<span style="color:blue;font-weight:bold">We are actively looking for highly motivated Master/PhD students, PostDoc and Research Assitants (both bachelor and master students can apply). [(see more info)]({{ site.url }}{{ site.baseurl }}/vacancies)</span>
 
 Jump to [staff](#staff), [students](#students), [collaborators](#collaborators).
 

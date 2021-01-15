@@ -1,6 +1,6 @@
 ---
 title: "Applied AI Lab - Publications"
-layout: gridlay
+layout: publications
 excerpt: "Applied AI Lab -- Publications."
 sitemap: false
 permalink: /publications/
@@ -9,53 +9,24 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## 2021
+{% for publi in site.data.pub.2021 %}
 
-(For a full list see [below](#full-list))
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> <em> {{ publi.award }} </em> </p>
-  <p> {{ publi.news2 }} </p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## 2020
+{% for publi in site.data.pub.2020 %}
 
-<p> &nbsp; </p>
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+{% endfor %}
 
-## Full List
-
-{% for publi in site.data.publist %}
+## 2019
+{% for publi in site.data.pub.2019 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
