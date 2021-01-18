@@ -65,8 +65,6 @@ For more information about our work see [Research](research).
   </a>
 </div>
 
-We are located at Phenikaa University A6-702, the to be birthplace of somethings cool in near future :). We exchange ideas and work with our neighbors from [OR Lab](http://orlab.com.vn/), as well as with the colleagues from [PIAS](https://pias.edu.vn/), and [ICS Lab](https://icslab.phenikaa-uni.edu.vn/home).
-
 <br />
 We are grateful for support from [Phenikaa University](https://phenikaa-uni.edu.vn/), and [National Foundation for Science and Technology Development (NAFOSTED)](https://nafosted.gov.vn/en/).
 

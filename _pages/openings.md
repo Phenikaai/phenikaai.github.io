@@ -25,7 +25,7 @@ Desired candidates are expected to have
 <span style="color:red;font-weight:bold"> Benefits are very competitive!!! </span>
 
 ### How to apply
-If you are interested in working with us, please send an email either of following email. State briefly why you are interested and attach a CV.
+If you are interested, please contact us by the following emails:
 
 - TS. Nguyen Cong Luong: [luong.nguyencong@phenikaa-uni.edu.vn](mailto:luong.nguyencong@phenikaa-uni.edu.vn)
 - TS. Mai Xuan Trang: [trang.maixuan@phenikaa-uni.edu.vn](mailto:trang.maixuan@phenikaa-uni.edu.vn)
