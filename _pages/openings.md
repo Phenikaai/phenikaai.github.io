@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are actively looking for highly motivated Master/PhD students, PostDoc and Research Assitants (both bachelor and master students can apply).**
+**We are actively looking for highly motivated Master/PhD students, PostDoc and Research Assistants (both bachelor and master students can apply).**
 
 ### Description
 
