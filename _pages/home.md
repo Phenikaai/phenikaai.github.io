@@ -10,7 +10,7 @@ permalink: /
 <span style="color:blue;font-weight:bold">We are actively looking for highly motivated Master/PhD students, PostDoc and Research Assistants (both bachelor and master students can apply). [(see more info)]({{ site.url }}{{ site.baseurl }}/vacancies)</span>
 
 <br />
-We are a research group at the [Faculty of Information Technology, Phenikaa University](https://cs.phenikaa-uni.edu.vn/). Our aim is to explore applications of AI in different domains. Our research topics including:
+We are a research group at the [Faculty of Computer Science, Phenikaa University](https://cs.phenikaa-uni.edu.vn/). Our aim is to explore applications of AI in different domains. Our research topics including:
 - Applications of AI in communications and networking
 - Applications of AI in Art
 - Applications of AI in medical and agricultural imaging
