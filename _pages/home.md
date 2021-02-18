@@ -32,7 +32,6 @@ For more information about our work see [Research](research).
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/Phenikaa_A2I.JPG" alt="Slide 1" />
         </div>
@@ -43,7 +42,7 @@ For more information about our work see [Research](research).
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/AI_Frog_Computing.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/New_Material.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/New_Material.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/AI_ART_2.jpg" alt="Slide 4" />
@@ -53,7 +52,7 @@ For more information about our work see [Research](research).
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/AI_ART_4.jpg" alt="Slide 6" />
-        </div>       
+        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/Ikebana_1.jpg" alt="Slide 7" />
         </div>  
