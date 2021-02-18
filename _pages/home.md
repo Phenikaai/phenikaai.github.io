@@ -54,6 +54,12 @@ For more information about our work see [Research](research).
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/AI_ART_4.jpg" alt="Slide 6" />
         </div>       
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/Ikebana_1.jpg" alt="Slide 7" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider1211/Ikebana_2.jpg" alt="Slide 8" />
+        </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
