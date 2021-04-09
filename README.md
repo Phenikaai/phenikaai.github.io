@@ -1,4 +1,4 @@
-# Phenikaa Applied AI Lab Website
+# Phenikaa AI Lab Website
 
 This is the website of our academic research group at Phenikaa University.
 

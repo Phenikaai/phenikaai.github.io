@@ -1,5 +1,5 @@
 ---
-title: "Applied AI Lab - Vacancies"
+title: "Phenikaa AI Lab - Vacancies"
 layout: newslay
 excerpt: "Openings"
 sitemap: false

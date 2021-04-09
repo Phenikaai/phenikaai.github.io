@@ -1,7 +1,7 @@
 ---
-title: "Applied AI Lab - Home"
+title: "Phenikaa AI Lab - Home"
 layout: homelay
-excerpt: "Applied AI Lab at Phenikaa University."
+excerpt: "AI Lab at Phenikaa University."
 sitemap: false
 permalink: /
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Applied AI Lab - Team"
+title: "Phenikaa AI Lab - Team"
 layout: gridlay
-excerpt: "Applied AI Lab: Team members"
+excerpt: "Phenikaa AI Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

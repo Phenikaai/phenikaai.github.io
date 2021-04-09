@@ -1,7 +1,7 @@
 ---
-title: "Applied AI Lab - Publications"
+title: "Phenikaa AI Lab - Publications"
 layout: publications
-excerpt: "Applied AI Lab -- Publications."
+excerpt: "Phenikaa AI Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

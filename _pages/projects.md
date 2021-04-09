@@ -1,7 +1,7 @@
 ---
-title: "Applied AI Lab - Projects"
+title: "Phenikaa AI Lab - Projects"
 layout: gridlay
-excerpt: "Applied AI Lab -- Projects."
+excerpt: "Projects."
 sitemap: false
 permalink: /projects/
 ---

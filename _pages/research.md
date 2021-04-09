@@ -1,7 +1,7 @@
 ---
-title: "Applied AI Lab - Research"
+title: "Phenikaa AI Lab - Research"
 layout: gridlay
-excerpt: "Applied AI Lab -- Research Themes."
+excerpt: "Phenikaa AI Lab -- Research Themes."
 sitemap: false
 permalink: /research/
 ---
