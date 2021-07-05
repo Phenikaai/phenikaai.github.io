@@ -1,3 +1,13 @@
+- title: "A Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications"
+  image:
+  description:
+  authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9463425
+    display: IEEE Communications Surveys & Tutorials (to appear)
+  highlight: 1
+  news1:
+
 - title: "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM"
   image:
   description:
@@ -28,6 +38,25 @@
   highlight: 1
   news1:
 
+- title: "Dynamic Network Service Selection in IRS-assisted Wireless Networks: A Game Theory Approach"
+  image:
+  description:
+  authors: Nguyen Cong Luong, Thi Thanh Van Nguyen, Shaohan Feng, Huy T Nguyen, Tao Dusit Niyato, Dong In Kim
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9403975
+    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+  highlight: 1
+  news1:
+
+- title: "A Hierarchical Game Model for OFDM Integrated Radar and Communication Systems"
+  image:
+  description:
+  authors: Huy T Nguyen, Hoang Thai Dinh, Nguyen Cong Luong, Tao Dusit Niyato, Dong In Kim
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9390402
+    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+  highlight: 1
+  news1:
 
 - title: "Deep Learning-aided Multicarrier Systems"
   image:
@@ -35,6 +64,6 @@
   authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9271932
-    display: IEEE Transactions on Wireless Communications (vol. 20, no. 3, 2021)
+    display: IEEE Transactions on Wireless Communications (vol. 20, no. 3, Mar 2021)
   highlight: 1
   news1:
