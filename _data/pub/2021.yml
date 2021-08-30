@@ -62,9 +62,10 @@
   image: trang_paper_1.jpg
   description: We proposed a new variant of Generative Adversarial Network that promoting object edge in images to keep the original shape of the main object to avoid over-transformed problems.
   authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  doi: https://doi.org/10.1007/978-3-030-77411-0_7
   link:
-    url: http://2020.hci.international/c&c
-    display: Accepted to HCI, 2021
+    url: https://link.springer.com/chapter/10.1007/978-3-030-77411-0_7
+    display: Lecture Notes in Computer Science, Vol. 12794
   highlight: 1
   news1:
 
@@ -72,9 +73,10 @@
   image: trang_paper_2.jpg
   description: The basic method proposed in this paper is to transform the scenery outside the car into an artistic and cultural video in real-time using AI
   authors: Mai Cong Hung, Mai Xuan Trang, Naoko Tosa, Ryohei Nakatsu
+  doi: https://doi.org/10.1007/978-3-030-77431-8_25
   link:
-    url: http://2020.hci.international/c&c
-    display: Accepted to HCI, 2021
+    url: https://link.springer.com/chapter/10.1007/978-3-030-77431-8_25
+    display: Lecture Notes in Computer Science, Vol. 12795
   highlight: 1
   news1:
 
