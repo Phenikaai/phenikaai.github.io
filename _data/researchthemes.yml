@@ -8,14 +8,23 @@
   highlight: 1
   award: 
   news2: 
-
+- title: "Applications of AI in Smart Cities"
+  image: smart_cities.jpg
+  description: We study AI-inspired solutions for intelligent transportation systems, which cover vehicle detection, smart traffic light, smart parking, and incident detection.
+  members: Luong Van Thien, Mai Cong Trang, Pham Tien Lam
+  link:
+    url:
+    display: 
+  highlight: 1
+  award: 
+  news2: 
 - title: "Application of AI in Digital Art"
   image: aai_art.jpg
   description: We are applying advanced Generative Adversarial Networks for generating and preserving creative digital art.
   members: Mai Xuan Trang, Mai Cong Hung, Naoko Tosa, Ryohei Nakatsu
   link:
     url:
-    display: Phenikaa Jupyterhub
+    display: 
   highlight: 1
   award: 
   news2: 
