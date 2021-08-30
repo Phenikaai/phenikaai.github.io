@@ -1,9 +1,9 @@
 ---
-title: "Phenikaa AI Lab - Research"
+title: "Phenikaa AI Lab - Training Courses"
 layout: gridlay
-excerpt: "Phenikaa AI Lab -- Research Themes."
-sitemap: false
-permalink: /courses/
+excerpt: "Phenikaa AI Lab -- Training Courses."
+sitemap: true
+permalink: /courses
 ---
 
 

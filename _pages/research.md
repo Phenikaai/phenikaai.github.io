@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Research"
 layout: gridlay
 excerpt: "Phenikaa AI Lab -- Research Themes."
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 

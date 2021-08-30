@@ -2,11 +2,11 @@
 title: "Phenikaa AI Lab - Vacancies"
 layout: newslay
 excerpt: "Openings"
-sitemap: false
+sitemap: true
 permalink: /vacancies
 ---
 
-# Open positions
+# Vacancies
 
 **We are actively looking for highly motivated Master/PhD students, PostDoc and Research Assistants (both bachelor and master students can apply).**
 

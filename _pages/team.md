@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Team"
 layout: gridlay
 excerpt: "Phenikaa AI Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team
 ---
 
 # Members
