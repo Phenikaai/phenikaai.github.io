@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-
+Jump to: [2021](#2021), [2020](#2020), [2019](#2019)
 ## 2021
 {% for publi in site.data.pub.2021 %}
 
