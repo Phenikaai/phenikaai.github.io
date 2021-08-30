@@ -1,5 +1,5 @@
 - name: Nguyen Cong Luong, Ph.D
-  photo: Luong.jpg
+  photo: staff/Luong.jpg
   info: Researcher, Group Leader
   email: luong.nguyencong@phenikaa-uni.edu.vn
   number_educ: 4
@@ -9,7 +9,7 @@
   education4: <a href="https://scholar.google.com/citations?user=g_A5WeIAAAAJ&hl=en">Google Scholar</a>
 
 - name: Mai Xuan Trang, Ph.D
-  photo: Trang.jpg
+  photo: staff/Trang.jpg
   info: Researcher
   email: trang.maixuan@phenikaa-uni.edu.vn
   number_educ: 4
@@ -19,7 +19,7 @@
   education4: <a href="https://scholar.google.com/citations?hl=en&user=0phzmw8AAAAJ">Google Scholar</a>
 
 - name: <a href="https://tvluong.wordpress.com/">Luong Van Thien</a>, Ph.D
-  photo: Thien.jpg
+  photo: staff/Thien.jpg
   info: Researcher
   email: thien.luongvan@phenikaa-uni.edu.vn
   number_educ: 4
@@ -29,7 +29,7 @@
   education4: <a href="https://scholar.google.com/citations?user=Gi4858sAAAAJ&hl=en">Google Scholar</a>
 
 - name: Nguyen Thi Thanh Van, M.Sc
-  photo: Van.jpg
+  photo: staff/Van.jpg
   info: Research Assistant
   email: van.nguyenthithanh@phenikaa-uni.edu.vn
   number_educ: 2
