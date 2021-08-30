@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Pictures"
 layout: piclay
 excerpt: "PAIL -- Pictures"
 sitemap: true
-permalink: /pictures
+permalink: /pictures/
 ---
 
 # Pictures

@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Training Courses"
 layout: gridlay
 excerpt: "Phenikaa AI Lab -- Training Courses."
 sitemap: true
-permalink: /courses
+permalink: /courses/
 ---
 
 

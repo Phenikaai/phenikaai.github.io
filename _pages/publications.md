@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Publications"
 layout: publications
 excerpt: "Phenikaa AI Lab -- Publications."
 sitemap: true
-permalink: /publications
+permalink: /publications/
 ---
 
 
