@@ -11,3 +11,16 @@
   highlight: 1
   award: 
   news2:
+- title: "AWS Academy Machine Learning Foundations"
+  image: aws-academy.jpeg
+  description: AWS Academy Machine Learning Foundation introduces students to the concepts and terminology of Artificial Intelligence and machine learning. By the end of this course, students will be able to select and apply machine learning services to resolve business problems. They will also be able to label, build, train, and deploy a custom machine learning model through a guided, hands-on approach. This course is taught by AWS certified educators.
+  notes: This course is exclusively free for Phenikaa CS students.
+  teachers: Mai Xuan Trang, Pham Tien Lam, Luong Van Thien
+  certificate: Certificate available
+  outline: aws-ml-foundations.pdf
+  #link:
+    #url: https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/dli-fundamentals-of-deep-learning-1369828-r3-web.pdf
+    #display: Course Outline
+  highlight: 1
+  award: 
+  news2:
