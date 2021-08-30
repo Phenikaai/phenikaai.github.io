@@ -2,7 +2,7 @@
 title: "Phenikaa AI Lab - Projects"
 layout: gridlay
 excerpt: "Projects."
-sitemap: false
+sitemap: true
 permalink: /projects
 ---
 

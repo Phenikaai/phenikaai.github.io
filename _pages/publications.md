@@ -2,7 +2,7 @@
 title: "Phenikaa AI Lab - Publications"
 layout: publications
 excerpt: "Phenikaa AI Lab -- Publications."
-sitemap: false
+sitemap: true
 permalink: /publications
 ---
 

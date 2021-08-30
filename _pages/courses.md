@@ -28,8 +28,11 @@ permalink: /courses
   {% if prli.certificate %}
   <p> <em> {{ prli.certificate }} </em> </p>
   {% endif %}
+  {% if prli.outline %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ prli.outline }}">Course outline</a></strong></p>
+  {% endif %}
   {% if prli.link.url %}
-  <p><strong><a href="{{ prli.link.url }}">{{ prli.link.display }}</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/{{ prli.link.url }}">{{ prli.link.display }}</a></strong></p>
   {% endif %}
   {% if prli.new1 %}
   <p class="text-danger"><strong> {{ prli.news1 }}</strong></p>

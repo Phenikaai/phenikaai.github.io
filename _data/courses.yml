@@ -3,9 +3,10 @@
   description: This is a short course (workshop) taught by NVIDIA Deep Learning Institute (DLI) University Ambassador & Certified Instructor. This is a online course, students will be provided online course on NVIDIA DLI LMS and NVIDIA cloud (with GPU) to complete exercises. After finish the workshop and complete all assignments, students will be reward certification from NVIDIA DLI. (Free for Phenikaa CS students).
   teachers: Mai Xuan Trang, Pham Tien Lam
   certificate: Certificate available
-  link:
-    url: https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/dli-fundamentals-of-deep-learning-1369828-r3-web.pdf
-    display: Course Outline
+  outline: dli-fundamentals-of-deep-learning.pdf
+  #link:
+    #url: https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/dli-fundamentals-of-deep-learning-1369828-r3-web.pdf
+    #display: Course Outline
   highlight: 1
   award: 
   news2:
