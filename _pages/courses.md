@@ -24,6 +24,9 @@ permalink: /courses/
   <pubtit>{{ prli.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/coursepic/{{ prli.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ prli.description }}</p>
+  {% if prli.notes %}
+  <p> <em style="color:blue"> {{ prli.notes }} </em> </p>
+  {% endif %}
   <p><em>Lecturers: {{ prli.teachers }}</em></p>
   {% if prli.certificate %}
   <p> <em> {{ prli.certificate }} </em> </p>
