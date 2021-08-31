@@ -1,3 +1,25 @@
+- title: "Optimal Resource Management for Federated Learning Systems"
+  image: nafosted.jpeg
+  description: This project is funding by Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 102.02-2019.305. 
+  members: Nguyen Cong Luong (PI)
+  period: 2020-2022
+  #link:
+    #url: https://jupyter.phenikaa-uni.edu.vn/hub/static/pages/about.html
+    #display: Phenikaa Jupyterhub
+  highlight: 1
+  award: 
+  news2: 
+- title: "Modulation Codes and Signal Detection Methods for the Next-Generation Ultra-High-Density Information Storage Systems"
+  image: nafosted.jpeg
+  description: This project is funding by Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 102.04-2019.307. 
+  members: Nguyen Dinh Chi (PI), Nguyen Cong Luong (Core member)
+  period: 2020-2022
+  #link:
+    #url: https://jupyter.phenikaa-uni.edu.vn/hub/static/pages/about.html
+    #display: Phenikaa Jupyterhub
+  highlight: 1
+  award: 
+  news2:
 - title: "Phenikaa Jupyter Hub Project"
   image: jupyterhub.png
   description: This JupyterHub, at first, aims at providing an environment for teaching AI, Data Science courses at Phenikaa CS. This system enables lecturers to create and manage courses using Jupyter Notebook, also students can use this JupyterHub for practicing and doing assignments. 
