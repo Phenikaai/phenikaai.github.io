@@ -19,7 +19,7 @@ You will be working on following research topics:
 
 Desired candidates are expected to have
 -	Experience in (1) machine learning/deep learning, (2) signal processing/wireless communications, (3) embedded systems design (at least one of those).
--	Experience in programming: Python, C/C++, Matlab, Tensorflow, Pytorch, Java, iOS, Android (at least two of those).
+-	Experience in programming: Python, C/C++, Matlab, Tensorflow, Pytorch, OpenCV, Java, iOS, Android (at least two of those).
 -	A strong motivation to publish research outcomes in high-ranked conferences/journals.
 
 <span style="color:red;font-weight:bold"> Benefits are very competitive!!! </span>
