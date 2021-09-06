@@ -15,7 +15,7 @@ permalink: /vacancies/
 You will be working on following research topics:
 -	Communication and networking: Learning-aided 5G/6G mobile networks), AI-enabled wireless system.
 -	Computer vision: medical image analysis, visual retrieval, hand recognition, human action recognition, early event prediction, multimodal learning, art.
--	Cyber-physical systems for mobile healthcare, wireless sensing, smart agriculture, IoT.
+-	Cyber-physical systems for mobile healthcare, wireless sensing, smart agriculture, smart cities, IoT.
 
 Desired candidates are expected to have
 -	Experience in (1) machine learning/deep learning, (2) signal processing/wireless communications, (3) embedded systems design (at least one of those).
