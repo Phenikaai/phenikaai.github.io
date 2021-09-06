@@ -27,6 +27,4 @@ Desired candidates are expected to have
 ### How to apply
 If you are interested, please contact us by the following emails:
 
-- TS. Nguyen Cong Luong: [luong.nguyencong@phenikaa-uni.edu.vn](mailto:luong.nguyencong@phenikaa-uni.edu.vn)
-- TS. Mai Xuan Trang: [trang.maixuan@phenikaa-uni.edu.vn](mailto:trang.maixuan@phenikaa-uni.edu.vn)
-- TS. Luong Van Thien: [thien.luongvan@phenikaa-uni.edu.vn](mailto:thien.luongvan@phenikaa-uni.edu.vn)
+- Phenikaa AI Lab: [pail@phenikaa-uni.edu.vn](mailto:pail@phenikaa-uni.edu.vn)
