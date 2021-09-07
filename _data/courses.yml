@@ -4,10 +4,10 @@
   notes: This course is exclusively free for Phenikaa CS students.
   teachers: Mai Xuan Trang, Pham Tien Lam, Luong Van Thien
   certificate: Certificate available
-  outline: dli-getready.pdf
-  #link:
-    #url: https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/dli-fundamentals-of-deep-learning-1369828-r3-web.pdf
-    #display: Course Outline
+  #outline: dli-getready.pdf
+  link:
+    url: https://pail.phenikaa-uni.edu.vn/blog/2021/09/06/nvidia-dli-deep-learning-fundamentals/
+    display: Course Outline
   highlight: 1
   award: 
   news2:
