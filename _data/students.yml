@@ -14,11 +14,77 @@
   number_educ: 1
   education1: High School at THPT Nam Yên Thành
   education2:
-- name: "This could be you!"
-  photo: rock.jpg
-  info: See <a href="/vacancies">openings</a> for more info
-  email: your_email@phenikaa-uni.edu.vn
-  number_educ: 0
-  education1:
+  topics: AI in communication & networking
+- name: "Pham Duc Long"
+  photo: students/long.jpg
+  info: K13 Phenikaa CS student
+  email: long.pd19010018@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School for Gifted Students, VNU
   education2:
+  topics: NLP
+- name: "Vu Duc Duy"
+  photo: students/duc_duy.png
+  info: K13 Phenikaa CS student (IT-VJ)
+  email: duy.vd19010055@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at THPT Nguyễn Đức Thuận, Nam Định
+  education2:
+  topics: Computer Vision
+- name: "Ha Duc hai"
+  photo: students/hai.jpg
+  info: K13 Phenikaa CS student (IT-VJ)
+  email: hai.hd19010057@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at THPT Chuyên Tuyên Quang (Toán Tin)
+  education2:
+  topics: Computer Vision
+- name: "Nguyen Van Tuan"
+  photo: students/tuan.jpg
+  info: K13 Phenikaa CS student
+  email: tuan.nv19010040@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at THPT Gia Lộc
+  education2:
+  topics: NLP, Computer Vision
+- name: "Pham Ngoc Viet"
+  photo: students/viet.jpg
+  info: K13 Phenikaa CS student
+  email: viet.pn19010042@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at THPT Nguyễn Huệ
+  education2:
+  topics: Computer Vision
+- name: "Vu Tuan Huy"
+  photo: students/huy.jpg
+  info: K13 Phenikaa CS student (IT-VJ)
+  email: huy.vt19010015@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School THPT Việt Nam - Ba Lan
+  education2:
+  topics: Computer Vision
+- name: "Le Khac Chau"
+  photo: students/chau.jpg
+  info: K13 Phenikaa CS student (IT-VJ)
+  email: chau.lk19010047@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at Gifted Class THPT Thái Phiên
+  education2:
+  topics: NLP
+- name: "Nguyen Chi Cong"
+  photo: students/cong.jpg
+  info: K14 Phenikaa CS student
+  email: nguyenchiconganh12@gmail.com
+  number_educ: 1
+  education1: High School at THPT Long Châu Sa
+  education2:
+  topics: Computer Vision, NLP
+- name: "Dinh Van Thuc"
+  photo: students/thuc.jpg
+  info: K14 Phenikaa CS student
+  email: 20010927@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at THPT Đầm Hà
+  education2:
+  topics: Computer Vision
 
