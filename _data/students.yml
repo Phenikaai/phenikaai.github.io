@@ -74,7 +74,7 @@
 - name: "Nguyen Chi Cong"
   photo: students/cong.jpg
   info: K14 Phenikaa CS student
-  email: nguyenchiconganh12@gmail.com
+  email: 20010846@st.phenikaa-uni.edu.vn
   number_educ: 1
   education1: High School at THPT Long Châu Sa
   education2:
@@ -85,6 +85,14 @@
   email: 20010927@st.phenikaa-uni.edu.vn
   number_educ: 1
   education1: High School at THPT Đầm Hà
+  education2:
+  topics: Computer Vision
+- name: "Vũ Ngọc Anh"
+  photo: students/ngocanh.png
+  info: K14 Phenikaa CS student
+  email: 20010885@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at 
   education2:
   topics: Computer Vision
 
