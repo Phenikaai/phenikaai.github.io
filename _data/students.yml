@@ -71,6 +71,14 @@
   education1: High School at Gifted Class THPT Thái Phiên
   education2:
   topics: NLP
+- name: "Dau Ba Nhat Minhh M"
+  photo: students/nhat_minh.png
+  info: K13 Phenikaa CS student (IT-VJ)
+  email: minh.dbn19010064@st.phenikaa-uni.edu.vn
+  number_educ: 1
+  education1: High School at Vinh University High School for Gifted Students
+  education2:
+  topics: Computer Vision
 - name: "Nguyen Chi Cong"
   photo: students/cong.jpg
   info: K14 Phenikaa CS student
