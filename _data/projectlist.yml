@@ -25,7 +25,7 @@
   description: This JupyterHub, at first, aims at providing an environment for teaching AI, Data Science courses at Phenikaa CS. This system enables lecturers to create and manage courses using Jupyter Notebook, also students can use this JupyterHub for practicing and doing assignments. 
   members: Mai Xuan Trang, Pham Tien Lam
   link:
-    url: https://jupyter.phenikaa-uni.edu.vn/hub/static/pages/about.html
+    url: https://jupyter.pail.phenikaa-uni.edu.vn/
     display: Phenikaa Jupyterhub
   highlight: 1
   award: 
