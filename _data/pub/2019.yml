@@ -19,16 +19,6 @@
   highlight: 1
   news2:
 
-- title: "Deep Learning-based Detector for OFDM-IM"
-  image: 
-  description: 
-  authors: Thien Van Luong, Youngwook Ko, Ngo Anh Vien, Duy HN Nguyen, Michail Matthaiou
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/8684894
-    display:   IEEE Wireless Communications Letters (Vol. 8, no. 4, 2019)
-  highlight: 1
-  news2:
-
 - title: "Joint Transaction Transmission and Channel Selection in Cognitive Radio Based Blockchain Networks: A Deep Reinforcement Learning Approach"
   image: 
   description: 
