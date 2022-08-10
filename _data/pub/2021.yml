@@ -28,16 +28,6 @@
   highlight: 1
   news1:
 
-- title: "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM"
-  image:
-  description:
-  authors: Thien Van Luong, Xiaoyu Zhang, Luping Xiang, Tiep M. Hoang, Chao Xu, Periklis Petropoulos, Lajos Hanzo
-  link:
-    url: https://eprints.soton.ac.uk/449644/
-    display: IEEE Journal on Selected Areas in Communications (to appear)
-  highlight: 1
-  news1:
-
 - title: "Dynamic Network Service Selection in IRS-assisted Wireless Networks: A Game Theory Approach"
   image:
   description:
@@ -77,15 +67,5 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-77431-8_25
     display: Lecture Notes in Computer Science, Vol. 12795
-  highlight: 1
-  news1:
-
-- title: "Deep Learning-aided Multicarrier Systems"
-  image:
-  description:
-  authors: Thien Van Luong, Youngwook Ko, Michail Matthaiou, Ngo Anh Vien, Minh-Tuan Le, Vu-Duc Ngo
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9271932
-    display: IEEE Transactions on Wireless Communications (vol. 20, no. 3, Mar 2021)
   highlight: 1
   news1:

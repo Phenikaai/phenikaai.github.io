@@ -1,22 +1,4 @@
-- title: "Deep-Learning-Aided Joint Channel Estimation and Data Detection for Spatial Modulation"
-  image: 
-  description: 
-  authors: Luping Xiang, Yusha Liu, Thien Van Luong, Robert G Maunder, Lie-Liang Yang, Lajos Hanzo
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9233320
-    display: IEEE Access (Vol. 8, 2020)
-  highlight: 1
-  news2:
 
-- title: "Deep Energy Autoencoder for Noncoherent Multicarrier MU-SIMO Systems"
-  image: 
-  description: 
-  authors: Thien Van Luong, Youngwook Ko, Ngo Anh Vien, Michail Matthaiou, Hien Quoc Ngo
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9036067
-    display: IEEE Transactions on Wireless Communications (Vol. 19, no. 6, 2020)
-  highlight: 1
-  news2:
 
 - title: "Federated Learning in Mobile Edge Networks: A Comprehensive
 Survey"

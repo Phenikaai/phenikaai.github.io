@@ -15,54 +15,7 @@
   education1: High School at THPT Nam Yên Thành
   education2:
   topics: AI in communication & networking
-- name: "Phạm Đức Long"
-  photo: students/long.jpg
-  info: K13 Phenikaa CS student
-  email: long.pd19010018@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School for Gifted Students, VNU
-  education2:
-  topics: NLP
-- name: "Vũ Đức Duy"
-  photo: students/duc_duy.png
-  info: K13 Phenikaa CS student (IT-VJ)
-  email: duy.vd19010055@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Nguyễn Đức Thuận, Nam Định
-  education2:
-  topics: Computer Vision
-- name: "Hà Đức Hải"
-  photo: students/hai.jpg
-  info: K13 Phenikaa CS student (IT-VJ)
-  email: hai.hd19010057@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Chuyên Tuyên Quang (Toán Tin)
-  education2:
-  topics: Computer Vision
-- name: "Nguyễn Văn Tuấn (Tuan.c)"
-  photo: students/tuan.jpg
-  info: K13 Phenikaa CS student
-  email: tuan.nv19010040@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Gia Lộc
-  education2:
-  topics: NLP, Computer Vision
-- name: "Phạm Ngọc Việt"
-  photo: students/viet.jpg
-  info: K13 Phenikaa CS student
-  email: viet.pn19010042@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Nguyễn Huệ
-  education2:
-  topics: Computer Vision
-- name: "Vũ Tuấn Huy"
-  photo: students/huy.jpg
-  info: K13 Phenikaa CS student
-  email: huy.vt19010015@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School THPT Việt Nam - Ba Lan
-  education2:
-  topics: Computer Vision
+
 - name: "Lê Khắc Châu"
   photo: students/chau.jpg
   info: K13 Phenikaa CS student (IT-VJ)
@@ -71,52 +24,3 @@
   education1: High School at Gifted Class THPT Thái Phiên
   education2:
   topics: NLP
-- name: "Đậu Bá Nhật Minh"
-  photo: students/nhat_minh.png
-  info: K13 Phenikaa CS student (IT-VJ)
-  email: minh.dbn19010064@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at Vinh University High School for Gifted Students
-  education2:
-  topics: Computer Vision
-- name: "Nguyễn Chí Công"
-  photo: students/cong.jpg
-  info: K14 Phenikaa CS student
-  email: 20010846@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Long Châu Sa
-  education2:
-  topics: Computer Vision, NLP
-- name: "Đinh Văn Thức"
-  photo: students/thuc.jpg
-  info: K14 Phenikaa CS student
-  email: 20010927@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Đầm Hà
-  education2:
-  topics: Computer Vision
-- name: "Vũ Ngọc Anh"
-  photo: students/ngocanh.png
-  info: K14 Phenikaa CS student
-  email: 20010885@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Tiên Lữ, Hưng Yên 
-  education2:
-  topics: Computer Vision
-- name: "Nguyễn Văn Tuyền"
-  photo: students/tuyen.jpg
-  info: K14 Phenikaa CS student
-  email: 20010881@st.phenikaa-uni.edu.vn
-  number_educ: 1
-  education1: High School at THPT Minh Khai, Quốc Oai, Hà Nội
-  education2:
-  topics: Computer Vision
-- name: "Nguyễn Duy Linh"
-  photo: students/linh_ex.jpg
-  info: K14 Phenikaa CS student
-  email: nguyenduylinh04102002@gmail.com
-  number_educ: 1
-  education1: High School at THPT Ngọc Hồi, Thanh Trì, Hà Nội
-  education2:
-  topics: Computer Vision
-
