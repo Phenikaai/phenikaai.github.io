@@ -25,4 +25,4 @@ Desired candidates are expected to have
 ### How to apply
 If you are interested, please contact us by the following emails:
 
-- Phenikaa AI Lab: [pail@phenikaa-uni.edu.vn](mailto:pail@phenikaa-uni.edu.vn)
+- TS. Nguyen Cong Luong: [luong.nguyencong@phenikaa-uni.edu.vn](mailto:luong.nguyencong@phenikaa-uni.edu.vn)

@@ -1,21 +1,9 @@
-- name: Pham Tien Lam, Ph.D
-  photo: collaborators/Lam.jpeg
-  duration: Researcher at PIAS, Phenikaa University
-  info: Applications of AI in new material discovering
-  email: lam.phamtien@phenikaa-uni.edu.vn
+- name: Mai Xuan Trang, Ph.D
+  photo: staff/Trang.jpg
+  info: Researcher
+  email: trang.maixuan@phenikaa-uni.edu.vn
   number_educ: 4
-  education1: Master at <a href="http://hus.vnu.edu.vn/">HUS</a>
-  education2: Ph.D at <a href="http://www.jaist.ac.jp/english/">JAIST</a>
-  education3: Postdoc at <a href="http://www.jaist.ac.jp/english/">JAIST</a>
-  education4: <a href="https://scholar.google.com/citations?user=TFP4OXcAAAAJ&hl=en&oi=ao">Google Scholar</a>
-
-- name: Mai Cong Hung, Ph.D
-  photo: collaborators/Hung.jpg
-  duration: Researcher at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
-  info: Applications of AI in Art
-  email: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  education1: Master at <a href="http://kmitl.ac.th/en">KMITL</a>
+  education2: Ph.D at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
+  education3: Postdoc at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
+  education4: <a href="https://scholar.google.com/citations?hl=en&user=0phzmw8AAAAJ">Google Scholar</a>

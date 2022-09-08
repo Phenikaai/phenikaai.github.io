@@ -8,16 +8,6 @@
   education3: Research Associate at <a href="https://www.ntu.edu.sg/Pages/home.aspx">NTU</a>
   education4: <a href="https://scholar.google.com/citations?user=g_A5WeIAAAAJ&hl=en">Google Scholar</a>
 
-- name: Mai Xuan Trang, Ph.D
-  photo: staff/Trang.jpg
-  info: Researcher
-  email: trang.maixuan@phenikaa-uni.edu.vn
-  number_educ: 4
-  education1: Master at <a href="http://kmitl.ac.th/en">KMITL</a>
-  education2: Ph.D at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
-  education3: Postdoc at <a href="https://www.kyoto-u.ac.jp/en/">Kyoto University</a>
-  education4: <a href="https://scholar.google.com/citations?hl=en&user=0phzmw8AAAAJ">Google Scholar</a>
-
 - name: Nguyen Thi Thanh Van, M.Sc
   photo: staff/Van.jpg
   info: Research Assistant
@@ -25,9 +15,8 @@
   number_educ: 2
   education1: B.E at <a href="https://www.haui.edu.vn/en">HaUI</a>
   education2: M.Sc at <a href="http://mta.edu.vn/">MTA</a>
-  education3: 
-  education4: 
-
+  education3:
+  education4:
 #- name: "This could be you !"
 #  photo: rock.jpg
 #  info: See <a href="/vacancies">openings</a> for more info

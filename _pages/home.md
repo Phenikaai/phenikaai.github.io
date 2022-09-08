@@ -14,8 +14,6 @@ We are a research group at the [Faculty of Computer Science, Phenikaa University
 - Wireless Communication Networks (6G and Beyond)
 - Applications of AI in Smart Cities
 - Applications of AI in Art
-- Applications of AI in medical and agricultural imaging
-- Applications of AI in new material discovering
 
 For more information about our work see [Research](research).
 
