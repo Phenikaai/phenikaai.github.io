@@ -12,8 +12,6 @@ permalink: /
 <br />
 We are a research group at the [Faculty of Computer Science, Phenikaa University](https://cs.phenikaa-uni.edu.vn/). Our aim is to explore applications of AI in different domains. Our research topics including:
 - Wireless Communication Networks (6G and Beyond)
-- Applications of AI in Smart Cities
-- Applications of AI in Art
 
 For more information about our work see [Research](research).
 
