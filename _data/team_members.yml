@@ -17,6 +17,16 @@
   education2: M.Sc at <a href="http://mta.edu.vn/">MTA</a>
   education3:
   education4:
+
+- name: Le Van Thuan, Ph.D
+  photo: staff/Thuan.jpg
+  info: Research Assistant
+  email: thuan.levan@phenikaa-uni.edu.vn
+  number_educ: 3
+  education1: Ph.D at <a href="">Seoul National University of Science and Technology, Korea</a>
+  education2: M.Sc at <a href="">Seoul National University of Science and Technology, Korea</a>
+  education3: <a href="https://scholar.google.com/citations?user=SruKdEQAAAAJ&hl=en&oi=sra">Google Scholar</a>
+
 #- name: "This could be you !"
 #  photo: rock.jpg
 #  info: See <a href="/vacancies">openings</a> for more info

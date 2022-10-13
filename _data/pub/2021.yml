@@ -4,7 +4,7 @@
   authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
-    display: Computer Networks (Volume 197, 9 October 2021)
+    display: Computer Networks 
   highlight: 1
   news1:
 
@@ -14,7 +14,7 @@
   authors: N. C. Luong, X. Lu, D. T. Hoang, D. Niyato and D. I. Kim
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9393464
-    display: IEEE Communications Surveys & Tutorials (vol. 23, no. 2, pp. 780-814, Secondquarter 2021)
+    display: IEEE Communications Surveys & Tutorials 
   highlight: 1
   news1:
 
@@ -34,7 +34,7 @@
   authors: Nguyen Cong Luong, Thi Thanh Van Nguyen, Shaohan Feng, Huy T Nguyen, Tao Dusit Niyato, Dong In Kim
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9403975
-    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+    display: IEEE Transactions on Vehicular Technology 
   highlight: 1
   news1:
 
@@ -44,7 +44,7 @@
   authors: Huy T Nguyen, Hoang Thai Dinh, Nguyen Cong Luong, Tao Dusit Niyato, Dong In Kim
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9390402
-    display: IEEE Transactions on Vehicular Technology (vol. 70, no. 5, May 2021)
+    display: IEEE Transactions on Vehicular Technology 
   highlight: 1
   news1:
 
@@ -67,5 +67,115 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-77431-8_25
     display: Lecture Notes in Computer Science, Vol. 12795
+  highlight: 1
+  news1:
+
+- title: "Adaptive Task Offloading in Coded Edge Computing: A Deep Reinforcement Learning Approach"
+  image: 
+  description: 
+  authors: Nguyen Van Tam, Nguyen Quang Hieu, Nguyen Thi Thanh Van, Nguyen Cong Luong, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/lcomm.2021.3116036
+    display: IEEE Communications Letters.
+  highlight: 1
+  news1:
+
+- title: "Latency Minimization in Covert Communication-Enabled Federated Learning Network"
+  image: 
+  description: 
+  authors: Nguyen Thi Thanh Van, Nguyen Cong Luong, Huy T. Nguyen, Shaohan Feng, Tao Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/tvt.2021.3121004
+    display: IEEE Transactions on Vehicular Technology.
+  highlight: 1
+  news1:
+
+- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
+  image: 
+  description: 
+  authors: Nguyen Cong Luong, Xiao Lu, Dinh Thai Hoang, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/comst.2021.3070399
+    display: IEEE Communications Surveys and Tutorials.
+  highlight: 1
+  news1:
+
+- title: "A Deep Reinforcement Learning Approach for Backscatter-Assisted Relay Communications"
+  image: 
+  description: 
+  authors: Tran The Anh, Nguyen Cong Luong, Dusit Niyato
+  doi: 
+  link:
+    url: https://doi.org/10.1109/lwc.2020.3024214
+    display: IEEE Wireless Communications Letters.
+  highlight: 1
+  news1:
+
+- title: "Computation offloading and content caching and delivery in Vehicular Edge Network: A survey"
+  image: 
+  description: 
+  authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, Ahmad Ariff Aizuddin Mohd Atan, Mohd Azri Mohd Izhar, Marwan Hadri Azmi, Salwani Mohd Daud
+  doi: 
+  link:
+    url: https://doi.org/10.1016/j.comnet.2021.108228
+    display: Computer Networks.
+  highlight: 1
+  news1:
+
+- title: "Computation offloading and content caching and delivery in Vehicular Edge Network: A surveyA Comprehensive Survey on Coded Distributed Computing: Fundamentals, Challenges, and Networking Applications"
+  image: 
+  description: 
+  authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
+  doi: 
+  link:
+    url: https://doi.org/10.1109/comst.2021.3091684
+    display: IEEE Communications Surveys and Tutorials.
+  highlight: 1
+  news1:
+
+- title: "A Hierarchical Game Model for OFDM Integrated Radar and Communication Systems"
+  image: 
+  description: 
+  authors: Huy T. Nguyen, Dinh Thai Hoang, Nguyen Cong Luong, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/tvt.2021.3069431
+    display: IEEE Transactions on Vehicular Technology.
+  highlight: 1
+  news1:
+
+- title: "Secure Wirelessly Powered Networks at the Physical Layer: Challenges, Countermeasures, and Road Ahead"
+  image: 
+  description: 
+  authors: Xiao Lu, Nguyen Cong Luong, Dinh Thai Hoang, Dusit Niyato, Yong Xiao, Ping Wang
+  doi: 
+  link:
+    url: https://doi.org/10.1109/jproc.2021.3126616
+    display: Proceedings of the IEEE.
+  highlight: 1
+  news1:
+
+- title: "Fast, Reliable, and Secure Drone Communication: A Comprehensive Survey"
+  image: 
+  description: 
+  authors: Vikas Hassija, Vinay Chamola, Adhar Agrawal, Adit Goyal, Nguyen Cong Luong, Dusit Niyato, Fei Richard Yu, Mohsen Guizani
+  doi: 
+  link:
+    url: https://doi.org/10.1109/comst.2021.3097916
+    display: IEEE Communications Surveys and Tutorials.
+  highlight: 1
+  news1:
+
+- title: "Toward Smart Security Enhancement of Federated Learning Networks"
+  image: 
+  description: 
+  authors: Junjie Tan, Ying-Chang Liang, Nguyen Cong Luong, Dusit Niyato
+  doi: 
+  link:
+    url: https://doi.org/10.1109/mnet.011.2000379
+    display: IEEE Network.
   highlight: 1
   news1:

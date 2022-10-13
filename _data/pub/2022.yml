@@ -1,0 +1,98 @@
+- title: "Securing Federated Learning: A Covert Communication-based Approach"
+  image: 
+  description: 
+  authors: Yuan-Ai Xie, Jiawen Kang, Dusit Niyato, Nguyen Thi Thanh Van, Nguyen Cong Luong, Zhixin Liu, Han Yu
+  doi: 
+  link:
+    url: https://doi.org/10.1109/mnet.011.2000379
+    display: IEEE Network.
+  highlight: 1
+  news1:
+
+- title: "Access Management in Joint Sensing and Communication Systems: Efficiency versus Fairness"
+  image: 
+  description: 
+  authors: Thanh Trung Nguyen, Khaled Elbassioni, Nguyen Cong Luong, Tao Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/tvt.2022.3153612
+    display: IEEE Transactions on Vehicular Technology.
+  highlight: 1
+  news1:
+
+- title: "Applications of Multi-Agent Reinforcement Learning in Future Internet: A Comprehensive Survey"
+  image: 
+  description: 
+  authors: Tianxu Li, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Qihui Wu, Yang Zhang, Bing Chen 
+  doi: 
+  link:
+    url: https://doi.org/10.1109/COMST.2022.3160697
+    display: IEEE Communications Surveys and Tutorials.
+  highlight: 1
+  news1:
+
+- title: "Applications of Auction and Mechanism Design in Edge Computing: A Survey"
+  image: 
+  description: 
+  authors: Houming Qiu, Kun Zhu, Nguyen Cong Luong, Changyan Yi, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1109/tccn.2022.3147196
+    display: IEEE Transactions on Cognitive Communications and Networking.
+  highlight: 1
+  news1:
+
+- title: "Incentive Mechanisms for Federated Learning: From Economic and Game Theoretic Perspective"
+  image: 
+  description: 
+  authors: Xuezhen Tu, Kun Zhu, Nguyen Cong Luong, Dusit Niyato, Yang Zhang, Juan Li
+  doi: 
+  link:
+    url: https://doi.org/10.1109/tccn.2022.3177522
+    display: IEEE Transactions on Cognitive Communications and Networking.
+  highlight: 1
+  news1:
+
+- title: "Joint time scheduling and transaction fee selection in blockchain-and backscatter-aided IoT system"
+  image: 
+  description: 
+  authors: Nguyen Cong Luong, Tran The Anh, Zehui Xiong, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: https://doi.org/10.1016/j.comnet.2022.109135
+    display: Computer Networks.
+  highlight: 1
+  news1:
+
+- title: "Dynamic Network Service Selection in Intelligent Reflecting Surface-Enabled Wireless Systems: Game Theory Approaches"
+  image: 
+  description: 
+  authors: Nguyen Thi Thanh Van, Nguyen Cong Luong, Shaohan Feng, Huy T. Nguyen, Kun Zhu, Thien Van Luong, Dusit Niyato
+  doi: 
+  link:
+    url: https://doi.org/10.1109/twc.2022.3144403
+    display: IEEE Transactions on Wireless Communications.
+  highlight: 1
+  news1:
+
+- title: "Intelligence Reflecting Surface-Aided Integrated Data and Energy Networking Coexisting D2D Communications"
+  image: 
+  description: 
+  authors: Nguyen Thi Thanh Van, Huy T. Nguyen, Nguyen Cong Luong, Ngo Manh Tien, Dusit Niyato, Dong In Kim
+  doi: 
+  link:
+    url: 
+    display: IEEE Transactions on Wireless Communications
+  highlight: 1
+  news1:
+
+- title: "Optimal Auction for Effective Energy Management for UAV-assisted Metaverse Synchronization System"
+  image: 
+  description: 
+  authors: Nguyen Cong Luong, Le Khac Chau, Nguyen Do Duy Anh, Nguyen Huu Sang, Shaohan Feng, Van-Dinh Nguyen, Dusit Niyato, and Dong In Kim
+  doi: 
+  link:
+    url: 
+    display: IEEE Consumer Communications & Networking Conference (CCNC 2023), Las Vegas, Nevada, USA
+  highlight: 1
+  news1:
