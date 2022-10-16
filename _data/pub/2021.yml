@@ -1,16 +1,6 @@
 - title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
   image:
   description:
-  authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
-    display: Computer Networks 
-  highlight: 1
-  news1:
-
-- title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
-  image:
-  description:
   authors: N. C. Luong, X. Lu, D. T. Hoang, D. Niyato and D. I. Kim
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9393464
@@ -24,7 +14,7 @@
   authors: Jer Shyuan Ng, Wei Yang Bryan Lim, Nguyen Cong Luong, Zehui Xiong, Alia Asheralieva, Dusit Niyato, Cyril Leung, Chunyan Miao
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9463425
-    display: IEEE Communications Surveys & Tutorials (to appear)
+    display: IEEE Communications Surveys & Tutorials
   highlight: 1
   news1:
 
@@ -179,3 +169,13 @@
     display: IEEE Network.
   highlight: 1
   news1:
+
+# - title: "Radio Resource Management in Joint Radar and Communication: A Comprehensive Survey"
+#   image:
+#   description:
+#   authors: Rudzidatul Akmam Dziyauddin, Dusit Niyato, Nguyen Cong Luong, et al.,
+#   link:
+#     url: https://www.sciencedirect.com/science/article/abs/pii/S1389128621002723
+#     display: Computer Networks 
+#   highlight: 1
+#   news1:
