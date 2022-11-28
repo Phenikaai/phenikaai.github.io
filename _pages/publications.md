@@ -12,7 +12,7 @@ Jump to: [2022](#2022),[2021](#2021), [2020](#2020), [2019](#2019)
 ## 2022
 {% for publi in site.data.pub.2022 %}
 
-  <b style="color: black"> {{ publi.title }} </b>,
+  <p style="color: black"> {{ publi.title }} </p>,
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}"><b>{{ publi.link.display }}</b></a>
 
 {% endfor %}
