@@ -8,6 +8,17 @@
     display: IEEE Transactions on Cognitive Communications and Networking.
   highlight: 1
   news1:
+  
+- title: "Outage Probability Minimization in Secure NOMA Cognitive Radio Systems with UAV Relay: A Machine Learning Approach"
+  image:
+  description:
+  authors: Van Nhan Vo, Le-Mai-Duyen Nguyen, Hung Tran, Viet-Hung Dang, Dusit Niyato, Dang Ngoc Cuong, Nguyen Cong Luong, and Chakchai So-In
+  doi:
+  link:
+    url:
+    display: IEEE Transactions on Cognitive Communications and Networking.
+  highlight: 1
+  news1:
 
 - title: "Trajectory Design and Power Control for Joint Radar and Communication Enabled Multi-UAV Cooperative Detection Systems"
   image:
