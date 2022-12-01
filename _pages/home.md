@@ -3,7 +3,7 @@ title: "Phenikaa AI Lab - Home"
 layout: homelay
 excerpt: "Phenikaa AI Lab"
 sitemap: false
-permalink: /
+permalink: /homebuk
 ---
 
 <br />
