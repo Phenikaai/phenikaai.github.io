@@ -1,6 +1,6 @@
 ---
 title: "Phenikaa AI Lab - Vacancies"
-layout: newslay
+layout: 
 excerpt: "Phenikaa AI Lab -- Vacancies"
 sitemap: true
 permalink: /vacancies/
