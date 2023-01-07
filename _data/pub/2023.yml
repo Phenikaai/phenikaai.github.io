@@ -9,7 +9,7 @@
   highlight: 1
   news1:
 
-  - title: Jamming-Based Covert Communication for Rate-Splitting Multiple Access
+- title: Jamming-Based Covert Communication for Rate-Splitting Multiple Access
   image:
   description:
   authors: Trung Thanh Nguyen, Nguyen Cong Luong, Shaohan Feng, Khaled Elbassioni and Dusit Niyato
@@ -19,3 +19,4 @@
     display: IEEE Transactions on Vehicular Technology.
   highlight: 1
   news1:
+  
